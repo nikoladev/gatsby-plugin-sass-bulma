@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-plugin-sass-bulma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "0.9.1",
+    "gatsby": "2.26.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "gatsby-plugin-sass": "2.4.x",
+    "sass": "1.29.0"
+  },
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
